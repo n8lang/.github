@@ -1,14 +1,14 @@
 <p align="center">
-    <img src="https://raw.githubusercontent.com/rhea-lang/assets/refs/heads/main/rhea-logo/rhea-logo.png" width="180" />
+    <img src="https://raw.githubusercontent.com/rhea-language/assets/refs/heads/main/rhea-logo/rhea-logo.png" width="180" />
 </p>
 <h1 align="center">Rhea Programming Language</h1>
 
 <p align="center">
-    <img alt="Build CI for Linux" src="https://github.com/rhea-lang/rhea/actions/workflows/build_ci_linux.yml/badge.svg" />
-    <img alt="Build CI for Darwin" src="https://github.com/rhea-lang/rhea/actions/workflows/build_ci_darwin.yml/badge.svg" />
-    <img alt="Build CI for Windows" src="https://github.com/rhea-lang/rhea/actions/workflows/build_ci_windows.yml/badge.svg" />
-    <img alt="Build CI for WebAssembly" src="https://github.com/rhea-lang/rhea/actions/workflows/build_ci_wasm.yml/badge.svg" />
-    <img alt="VSCode Extension Build" src="https://github.com/rhea-lang/extension/actions/workflows/build_extension.yml/badge.svg" />
+    <img alt="Build CI for Linux" src="https://github.com/rhea-language/rhea/actions/workflows/build_ci_linux.yml/badge.svg" />
+    <img alt="Build CI for Darwin" src="https://github.com/rhea-language/rhea/actions/workflows/build_ci_darwin.yml/badge.svg" />
+    <img alt="Build CI for Windows" src="https://github.com/rhea-language/rhea/actions/workflows/build_ci_windows.yml/badge.svg" />
+    <img alt="Build CI for WebAssembly" src="https://github.com/rhea-language/rhea/actions/workflows/build_ci_wasm.yml/badge.svg" />
+    <img alt="VSCode Extension Build" src="https://github.com/rhea-language/extension/actions/workflows/build_extension.yml/badge.svg" />
 </p>
 
 JIT-compiled dynamic general-purpose programming language utilizing OpenMP parallelism with built-in concurrency and unconventional expressiveness.
